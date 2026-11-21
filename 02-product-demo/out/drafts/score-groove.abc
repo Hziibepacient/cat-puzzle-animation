@@ -1,0 +1,48 @@
+X:1
+T:Only Cats after class
+M:4/4
+L:1/16
+Q:1/4=120
+K:Am
+V:HK inst=pluck role=melody gain=0.47
+!mark:welcome! !mf! e z2 g z2 a2 z2 e z c2 z2 | z e z2 d2 z c z2 A2 z2 c d |
+!mark:assistant! !mp! e z4 c z A2 z3 e2 z2 | z2 g z3 e z d2 z3 A z2 | c2 z4 d z3 e z g a z2 |
+!mark:square! !ff! a2 z c' z2 b a z2 e2 z2 g z | z2 a z g2 z e z2 c2 z d z e | g2 z b z2 a2 z2 g z d2 z2 |
+!mark:catalog! !mf! e2 z g z2 a2 z2 c' z b2 z2 | z a z2 g2 z e z2 c2 z2 e g | a2 z d' z2 c' z2 b g2 z2 e z |
+!mark:messages! !mp! z2 e2 z2 g z2 a2 z3 e z | e z2 g z2 a2 z2 g2 z e z2 | !mf! z2 d z3 e2 z2 g z a2 z e |
+!mark:brand! !mf! e2 z g2 z a5 z5 |
+V:CK inst=clav gain=0.38
+!mf! z2 [GBce]2 z2 [GBce] z2 [GBce] z2 [GBce]2 z2 | z2 [AEGce]2 z2 [AEGce] z2 [AEGce] z2 [AEGce]2 z [AEGce] |
+!mp! z2 [GBce]2 z2 [GBce] z2 [GBce] z2 [GBce]2 z2 | z2 [GBde]2 z2 [GBde] z2 [GBde] z2 [GBde]2 z2 | z2 [FAd]2 z3 [FAd] z8 |
+!ff! z2 [GBce]2 z2 [GBce] z2 [GBce] z2 [GBce]2 z2 | z2 [AEGce]2 z2 [AEGce] z2 [AEGce] z2 [AEGce]2 z2 | z2 [FAd]2 z2 [FAd] z2 [FAd] z2 [FAd]2 z [FAd] |
+!mf! z2 [GBce]2 z2 [GBce] z2 [GBce] z2 [GBce]2 z2 | z2 [AEGce]2 z2 [AEGce] z2 [AEGce] z2 [AEGce]2 z2 | z2 [FAd]2 z2 [FAd] z2 [FAd] z2 [FAd]2 z [FAd] |
+!mp! z2 [GBde]2 z2 [GBde] z2 [GBde] z2 [GBde]2 z2 | z2 [AEGce]2 z2 [AEGce] z2 [AEGce] z2 [AEGce]2 z2 | !mf! z2 [FAd]2 z2 [FAd] z2 [FAd] z2 [FAd]2 z [FAd] |
+!mp! [GBce]10 z6 |
+V:BS inst=synbass gain=0.68
+!mf! A,,2 z A,, z A,2 z A,, z E,2 z A,, z A, | F,,2 z F, z C,2 z F,,2 z F,, z C,2 z |
+!mp! A,,2 z2 A, z2 A,, E,2 z A,,2 z2 A,, | E,,2 z E,, z E,2 z E,, z B,,2 z E,, z E, | G,,2 z2 G,,2 z2 D,2 z G,, z4 |
+!ff! A,,2 z2 A, z2 A,, E,2 z A,,2 z2 A,, | F,,2 z F,, z F,2 z F,, z C,2 z F,, z F, | G,,2 z G, z D,2 z G,,2 z G,, z D,2 z |
+!mf! A,,2 z2 A, z2 A,, E,2 z A,,2 z2 A,, | F,,2 z F,, z F,2 z F,, z C,2 z F,, z F, | G,,2 z G, z D,2 z G,,2 z G,, z D,2 z |
+!mf! E,,2 z2 E, z2 E,, B,,2 z E,,2 z2 E,, | F,,2 z F,, z F,2 z F,, z C,2 z F,, z F, | G,,2 z G, z D,2 z G,,2 z G,, z D,2 z |
+!mp! A,,8 z2 E,4 z2 |
+V:KK inst=drums kit=808 gain=0.89
+!mf! C,, z3 C,, z3 C,, z3 C,, z3 | C,, z3 C,, z3 C,, z3 C,, z C,, z |
+!mp! C,, z5 C,, z C,, z3 C,, z3 | C,, z5 C,, z C,, z3 C,, z3 | C,, z3 C,, z11 |
+!ff! C,, z3 C,, z3 C,, z3 C,, z3 | C,, z3 C,, z3 C,, z3 C,, z3 | C,, z3 C,, z3 C,, z3 C,, z C,, z |
+!mf! C,, z3 C,, z3 C,, z3 C,, z3 | C,, z3 C,, z3 C,, z3 C,, z3 | C,, z3 C,, z3 C,, z3 C,, z C,, z |
+!mf! C,, z5 C,, z C,, z3 C,, z3 | C,, z3 C,, z3 C,, z3 C,, z3 | C,, z3 C,, z3 C,, z3 C,, z C,, z |
+!mf! C,,2 z4 C,, z9 |
+V:SN inst=drums kit=gated gain=0.63
+!mf! z4 [^D,,D,,] z7 [^D,,D,,] z3 | z4 [^D,,D,,] z7 [^D,,D,,] z ^C,, D,, |
+!mp! z4 [^D,,D,,] z7 [^D,,D,,] z3 | z4 [^D,,D,,] z7 [^D,,D,,] z3 | z4 ^D,, z5 ^C,, ^C,, z4 |
+!ff! z4 [^D,,D,,] z7 [^D,,D,,] z3 | z4 [^D,,D,,] z7 [^D,,D,,] z3 | z4 [^D,,D,,] z7 [^D,,D,,] z ^C,, D,, |
+!mf! z4 [^D,,D,,] z7 [^D,,D,,] z3 | z4 [^D,,D,,] z7 [^D,,D,,] z3 | z4 [^D,,D,,] z7 [^D,,D,,] z ^C,, D,, |
+!mf! z4 [^D,,D,,] z7 [^D,,D,,] z3 | z4 [^D,,D,,] z7 [^D,,D,,] z3 | z4 [^D,,D,,] z7 [^D,,D,,] z ^C,, D,, |
+!mf! [^D,,^F,,] z5 ^C,, z9 |
+V:HH inst=drums kit=808 gain=0.32
+!mf! z2 ^A,,2 z ^F,, ^F,, ^F,, z2 ^A,,2 z ^F,, ^F,, z | z2 ^A,,2 z ^F,, ^F,, ^F,, z2 ^A,,2 z ^F,, ^F,, ^F,, |
+!mp! z2 ^F,, z3 ^F,, z3 ^F,, z3 ^A,,2 | z2 ^A,,2 z ^F,, ^F,, ^F,, z2 ^A,,2 z ^F,, ^F,, z | z2 ^F,, z3 ^F,, z3 ^F,, ^F,, z4 |
+!ff! z2 ^A,,2 z ^F,, ^F,, ^F,, z2 ^A,,2 z ^F,, ^F,, z | z2 ^A,,2 z ^F,, ^F,, ^F,, z2 ^A,,2 z ^F,, ^F,, z | z2 ^A,,2 z ^F,, ^F,, ^F,, z2 ^A,,2 z ^F,, ^F,, ^F,, |
+!mf! z2 ^A,,2 z ^F,, ^F,, ^F,, z2 ^A,,2 z ^F,, ^F,, z | z2 ^A,,2 z ^F,, ^F,, ^F,, z2 ^A,,2 z ^F,, ^F,, z | z2 ^A,,2 z ^F,, ^F,, ^F,, z2 ^A,,2 z ^F,, ^F,, ^F,, |
+!mp! z2 ^F,, z3 ^F,, z3 ^F,, z3 ^A,,2 | z2 ^A,,2 z ^F,, ^F,, ^F,, z2 ^A,,2 z ^F,, ^F,, z | !mf! z2 ^A,,2 z ^F,, ^F,, ^F,, z2 ^A,,2 z ^F,, ^F,, ^F,, |
+!mp! z2 ^A,,2 z4 ^F,, z7 |
