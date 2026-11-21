@@ -1,0 +1,10 @@
+{
+  "model": "gpt-image-2.6-ext",
+  "version": "flare",
+  "prompt": "Prepare four NEW production sprites for episode three of the attached original Chinese university campus cat animation. Use EXACT CHARACTER MATCH with the reference sheet: same student boy with short messy black hair, dusty-blue scarf, white top, small charcoal backpack and long slim stick limbs, same college girl with black ponytail, cream sweater, knee-length black skirt and light shoes. Match the reference's fine slightly irregular pencil-and-ink outline and restrained tinted fills. Warm expressions and clear readable poses. Fully plain white background (#FFFFFF), no scenery, labels, symbols, lettering, ground marks or shadows. Four standalone single-person full-body sprites in a very clean 2 by 2 atlas with large blank gutters and safe borders. Each pose wholly within its quadrant, no touching or overlapping. TOP LEFT: the student boy crouching low, facing right, his right hand holding up a dark smartphone aimed obliquely down to photograph a cat, the back of the phone visible, fingers touching the phone. His blue scarf and backpack remain clearly visible, mouth relaxed. TOP RIGHT: the girl, standing and looking left and down slightly, pointing her outstretched LEFT-facing hand diagonally down toward a little cat that would be off-canvas, brows inquisitive, modest smile. BOTTOM LEFT: the same student boy now standing, facing right, eagerly explaining with one index finger and the other open hand, friendly expressive smile; same face/hair/scarf/backpack. BOTTOM RIGHT: same girl standing, facing left, pleasantly surprised and warmly smiling with one hand curled under chin, eyes bright. Keep upright poses similar scale and leg length. Adults. No actual cat, no backgrounds, no floating phones, no large props, no labels. Sheet landscape 3:2.",
+  "size": "3:2",
+  "resolution": "2k",
+  "quality": "high",
+  "n": 1,
+  "output_format": "png"
+}

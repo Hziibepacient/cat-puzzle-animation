@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="avatar-title avatar-description">
+  <title id="avatar-title">小 C</title>
+  <desc id="avatar-description">炭灰色猫头，左脸有浅灰色 C 形花纹，琥珀色眼睛偶尔眨一下。</desc>
+  <style>
+    .xiao-c-eyes {
+      transform-origin: 128px 128px;
+      animation: xiao-c-blink 10.6s linear infinite;
+    }
+    @keyframes xiao-c-blink {
+      0%, 32%, 34.5%, 80%, 82.5%, 100% { transform: scaleY(1); }
+      32.85%, 33.05%, 80.85%, 81.05% { transform: scaleY(.09); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .xiao-c-eyes { animation: none; }
+    }
+  </style>
+  <path id="head" fill="#49464A" d="
+    M 47 101
+    C 44 83 46 62 51 46
+    C 53 38 59 37 66 41
+    C 80 49 93 60 105 73
+    C 125 68 145 70 161 76
+    C 172 64 187 52 198 49
+    C 205 47 209 51 209 59
+    C 211 75 209 92 207 104
+    C 217 119 224 137 222 154
+    C 219 188 194 213 163 221
+    C 132 230 98 226 75 214
+    C 45 199 29 176 31 150
+    C 32 130 38 114 47 101 Z" />
+  <path id="cheek-mark" fill="#ADA6A4" d="
+    M 105 104
+    C 83 99 64 112 58 130
+    C 52 148 60 167 77 175
+    C 88 180 102 178 112 171
+    C 115 169 113 166 110 167
+    C 99 170 87 166 81 158
+    C 73 148 73 133 79 124
+    C 85 116 94 111 105 109
+    C 108 108 108 105 105 104 Z" />
+  <g class="xiao-c-eyes" fill="#EDBD7E">
+    <rect x="100" y="115" width="17" height="32" rx="8.5" transform="rotate(-21 108.5 131)" />
+    <rect x="153" y="110" width="16" height="29" rx="8" transform="rotate(-21 161 124.5)" />
+  </g>
+</svg>

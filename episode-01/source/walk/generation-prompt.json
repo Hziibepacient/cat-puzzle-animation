@@ -1,0 +1,10 @@
+{
+  "model": "gpt-image-2.6-ext",
+  "version": "flare",
+  "prompt": "Make a production character sprite sheet for the ENDING of the referenced original animated university cat story. Reuse the exact two characters from the lower-right of the reference: boy on left with short messy black hair, a faded dusty blue scarf, white/ivory long sleeves, charcoal small backpack and dark simple pants. Girl on right with a black ponytail, warm cream long sleeve top, black skirt and simple light shoes. University-age young adults. Match the reference's fine hand drawn slightly irregular near-black ink strokes, restrained flat shades, endearing minimal silhouettes, slim proportions, subtly wobbly watercolor-like fill. Back view ONLY, with no visible face, eye, nose, or side-profile. Both are upright and walking away from camera, side by side with natural space between bodies. His right hand and her left hand touch in a clear unmistakable handclasp in the center; their arms make a relaxed shallow V, free arms swing at each outer side. No cat and no other prop except his backpack and scarf. Plain solid flat pure white backdrop, no shadows, no paper texture, no floor, no scenery.\nComposition: two isolated drawings side-by-side; each drawing shows the SAME two people holding hands from head to toe. Left drawing: walking contact pose A with their near feet slightly advanced, trousers and lower legs separated clearly. Right drawing: pose B, with stride alternated. Match head height, body sizes, position of handclasp, and color exactly across both drawings. Draw the two pairs at the same scale and centered in their halves, with a huge completely white gutter and margins. Each pair wholly contained in its half. No labels, words, marks, panel edges, or crop lines. Characters relatively tall within the sheet, with clear complete feet at bottom and a margin above the hair. Wide 3:2 sheet.",
+  "size": "3:2",
+  "resolution": "2k",
+  "quality": "high",
+  "n": 1,
+  "output_format": "png"
+}

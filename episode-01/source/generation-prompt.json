@@ -1,0 +1,10 @@
+{
+  "model": "gpt-image-2.6-ext",
+  "version": "flare",
+  "prompt": "Production sprite sheet for an original Chinese university-campus cat story rendered as an ultra-minimal hand-drawn 2D pen cartoon. Landscape 3:2, pure flat white (#FFFFFF) background, absolutely no grid, panel borders, margins marked with lines, paper texture, text, letters or numbering. Four isolated vignettes, laid out in an EXACT 2 × 2 grid, each centered wholly in its own quadrant with generous completely white gutter and empty margins on every side. Do not cross quadrants. Fine slightly irregular black ink with round joins, expressive but minimal faces, lean stick figures with long single-line limbs and tiny oval hands and shoes; graphic simplicity, only one muted blue accent and one marmalade accent, no realistic rendering, no shading, no manga, no big heads. Preserve exactly the same boy identity throughout: Chinese male college student, short black hair with one forelock, simple narrow dusty-blue scarf and small charcoal backpack, slim stick limbs. Top left: boy in three-quarter view facing right, standing looking down as he scrolls his smartphone, back of phone towards viewer, visibly surprised little smile. Top right: same boy in clear side-profile mid-run towards right, one leg forward and the other back, backpack lifting slightly, phone in hand, face eager, whole figure. Bottom left: single ginger campus cat with off-white chin, curled tail, sitting in profile and looking slightly upward left, full body only. Bottom right: same boy and a girl with a black ponytail and simple cream top crouch facing each other, smiling, both holding a tiny shallow bowl of cat food together between them; show clear hands and poses, keep empty space directly beneath their bowl so cat can be composited later. Preserve drawing style across all quadrants. No ground marks or props beyond those explicitly named.",
+  "size": "3:2",
+  "resolution": "2k",
+  "quality": "high",
+  "n": 1,
+  "output_format": "png"
+}
